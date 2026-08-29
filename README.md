@@ -23,11 +23,11 @@
 If you find this work useful, please cite:
 
 ```bibtex
-@article{nasypanyi2026seeingweights,
+@inproceedings{nasypanyi2026seeingweights,
   title   = {Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression},
   author  = {Nasypanyi, Oleksii and Cho, Jaemin and Ozbulak, Utku and Kang, Byungkon and Rameau, Francois},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2606.31164}
+  booktitle={ECCV},
+  year={2026}
 }
 ```
 
